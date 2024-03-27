@@ -1,0 +1,17 @@
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\bin\Debug\net8.0\TheMonarchs.exe
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\bin\Debug\net8.0\TheMonarchs.deps.json
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\bin\Debug\net8.0\TheMonarchs.runtimeconfig.json
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\bin\Debug\net8.0\TheMonarchs.dll
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\bin\Debug\net8.0\TheMonarchs.pdb
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\bin\Debug\net8.0\RestSharp.dll
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\TheMonarchs.csproj.AssemblyReference.cache
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\TheMonarchs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\TheMonarchs.AssemblyInfoInputs.cache
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\TheMonarchs.AssemblyInfo.cs
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\TheMonarchs.csproj.CoreCompileInputs.cache
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\TheMonarchs.csproj.CopyComplete
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\TheMonarchs.dll
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\refint\TheMonarchs.dll
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\TheMonarchs.pdb
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\TheMonarchs.genruntimeconfig.cache
+C:\Users\Filipe Costa\source\repos\InterviewProjects\Mastercard\TheMonarchs\obj\Debug\net8.0\ref\TheMonarchs.dll
